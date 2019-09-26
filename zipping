@@ -1,0 +1,2 @@
+rm uniqueGUI.zip
+zip uniqueGUI.zip config.* *py  LICENSE *.md zipping ankiweb --exclude \*~ \*zip
