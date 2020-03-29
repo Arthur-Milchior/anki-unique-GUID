@@ -21,5 +21,5 @@ Key         |Value
 Copyright   | Arthur Milchior <arthur@milchior.fr>
 Based on    | Anki code by Damien Elmes <anki@ichi2.net>
 License     | GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html
-Source in   | https://github.com/Arthur-Milchior/anki-Close-and-lose-current-input-for-sticky-fields
+Source in   | https://github.com/Arthur-Milchior/anki-unique-GUID
 Addon number| [2082040683](https://ankiweb.net/shared/info/2082040683)
